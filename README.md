@@ -6,9 +6,10 @@ This is a somewhat over-engineered solution to a simple problem, but it seemed n
 
 **USAGE:**
 
-Simply run the pre-compiled "BO3 Map Fixer.exe" file, then provide it with the root workshop folder.
+Simply run the pre-compiled "BO3 Map Fixer.exe" file, then provide it with the workshop folder for BO3.
 
 Example: C:\Program Files (x86)\Steam\steamapps\workshop\content\311210
+
 Example: Y:\SteamLibrary\steamapps\workshop\content\311210
 
 The program needs the path to workshop folder "311210", that is the folder for all of your BO3 maps, no matter which drive they are on.
