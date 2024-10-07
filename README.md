@@ -14,7 +14,7 @@ Example: Y:\SteamLibrary\steamapps\workshop\content\311210
 
 The program needs the path to workshop folder "311210", that is the folder for all of your BO3 maps, no matter which drive they are on.
 
-Once you input the folder path, please pick whatever localization your game version is running (If you don't know, when the game crashes it typically mentions which one it is.), then just press "Fix Maps".
+Once you input the folder path, please pick whatever localization your game version is running (If you don't know, when the game crashes it typically mentions which one it is.), then just press "Fix Custom Maps".
 
 Voila! All your maps should fixed in a few moments!
 
